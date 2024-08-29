@@ -1,0 +1,29 @@
+h3,li{
+    color: aqua;
+}
+
+.caratula{
+    display: inline-block;
+}
+
+.completo{ 
+    display: inline;
+    
+}
+div{
+    background-color: #0c2224;
+}
+.img1{
+    width: 400px;
+    height: 200px;
+}
+
+.contenedorMenu{
+    text-align: center;
+
+}
+
+.imagen{
+    display: inline-block;
+    text-align: center;
+}
